@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://es.bloglr.com/sitemap.xml
